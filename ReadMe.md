@@ -57,7 +57,7 @@ Advanced model routing
 Documentation & Resources
 
 Full documentation: https://a9x11.com/docs (or your chosen domain)
-GitHub repository: https://github.com/yourusername/a9x11
+GitHub repository: https://github.com/wwwA9X11/A9X11-IDE
 Issue tracker and feature requests welcome
 
 Getting Started
